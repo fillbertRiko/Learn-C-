@@ -1,0 +1,10 @@
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\bin\Debug\Bai3.exe.config
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\bin\Debug\Bai3.exe
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\bin\Debug\Bai3.pdb
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.Form1.resources
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.exe
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai3\obj\Debug\Bai3.pdb

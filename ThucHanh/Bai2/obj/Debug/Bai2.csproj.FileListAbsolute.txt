@@ -1,0 +1,10 @@
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\bin\Debug\Bai2.exe.config
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\bin\Debug\Bai2.exe
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\bin\Debug\Bai2.pdb
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.Form1.resources
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.exe
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\Bai2\obj\Debug\Bai2.pdb
