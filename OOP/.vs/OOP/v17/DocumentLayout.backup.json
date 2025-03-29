@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\B\u00E0i t\u1EADp\\Learn-C-\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E84F8851-14CA-4FD2-BF47-B023EA26C008}|Bai1\\Bai1.csproj|h:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\b\u00E0i t\u1EADp\\learn-c-\\oop\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84F8851-14CA-4FD2-BF47-B023EA26C008}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C841CA20-778A-48E1-9D76-D74E4CDE2A4C}|DanhSachSinhVien\\DanhSachSinhVien.vcxproj|H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\B\u00E0i t\u1EADp\\Learn-C-\\OOP\\DanhSachSinhVien\\DanhSachSinhVien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C841CA20-778A-48E1-9D76-D74E4CDE2A4C}|DanhSachSinhVien\\DanhSachSinhVien.vcxproj|solutionrelative:DanhSachSinhVien\\DanhSachSinhVien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\B\u00E0i t\u1EADp\\Learn-C-\\OOP\\Bai1\\Program.cs",
-              "RelativeDocumentMoniker": "Bai1\\Program.cs",
-              "ToolTip": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\B\u00E0i t\u1EADp\\Learn-C-\\OOP\\Bai1\\Program.cs",
-              "RelativeToolTip": "Bai1\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:20:57.16Z",
+              "Title": "DanhSachSinhVien.cpp",
+              "DocumentMoniker": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\B\u00E0i t\u1EADp\\Learn-C-\\OOP\\DanhSachSinhVien\\DanhSachSinhVien.cpp",
+              "RelativeDocumentMoniker": "DanhSachSinhVien\\DanhSachSinhVien.cpp",
+              "ToolTip": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\B\u00E0i t\u1EADp\\Learn-C-\\OOP\\DanhSachSinhVien\\DanhSachSinhVien.cpp",
+              "RelativeToolTip": "DanhSachSinhVien\\DanhSachSinhVien.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:30:47.311Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,12 @@
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\bin\Debug\bài4.exe.config
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\bin\Debug\bài4.exe
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\bin\Debug\bài4.pdb
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.csproj.AssemblyReference.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.Form1.resources
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.Properties.Resources.resources
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.csproj.GenerateResource.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.csproj.CoreCompileInputs.cache
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.exe
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\obj\Debug\bài4.pdb
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\bin\Debug\Database1.mdf
+H:\Tài liệu học tập\2025\Lập trình ứng dụng\Bài tập\Learn-C-\ThucHanh\bài4\bin\Debug\Database1_log.ldf
